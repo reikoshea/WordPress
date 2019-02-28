@@ -1,0 +1,10 @@
+{
+    "require": {
+        "pear/mail": "*",
+        "pear/xml_feed_parser": "*",
+        "pear/xml_parser": "*",
+        "pear/xml_rpc2": "*",
+        "pear/xml_serializer": "*",
+        "pear/xml_util": "*"
+    }
+}
